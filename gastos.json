@@ -1,0 +1,76 @@
+{
+  "gastos": [
+    {
+      "id": "9681e3b2-a5a3-420f-abfb-0e68abffdf23",
+      "roommate": "Asma Raknes",
+      "descripcion": "Articulos de limpieza",
+      "monto": 10500
+    },
+    {
+      "id": "84489b3c-b5e1-4bb5-8ced-e30d46b61d4c",
+      "roommate": "Zdorovega Skiba",
+      "descripcion": "Articulos de limpieza",
+      "monto": 25000
+    },
+    {
+      "id": "92cbcda2-5912-49e8-b386-18acad1d0ce5",
+      "roommate": "Oskari Suomi",
+      "descripcion": "Articulos de limpieza",
+      "monto": 6500
+    },
+    {
+      "id": "f0a8fe4b-ef51-46f9-84f0-dc81be9a5b15",
+      "roommate": "Siddártha Aragão",
+      "descripcion": "Articulos de limpieza",
+      "monto": 12000
+    },
+    {
+      "id": "310c36aa-450f-492f-9578-dceb0d8ecc3c",
+      "roommate": "Florence Fisher",
+      "descripcion": "Articulos de limpieza",
+      "monto": 16253
+    },
+    {
+      "id": "907fed1b-3f08-4465-bd80-e5d9faa51a08",
+      "roommate": "Brijesh Kulkarni",
+      "descripcion": "Articulos de limpieza",
+      "monto": 6890
+    },
+    {
+      "id": "186c9722-916a-4f36-bf4e-481d93352a0d",
+      "roommate": "Eeli Kyllo",
+      "descripcion": "Articulos de limpieza",
+      "monto": 38600
+    },
+    {
+      "id": "de042cb4-e022-4eef-8d76-3f73d6c398e0",
+      "roommate": "Hredhaan Kumari",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15027
+    },
+    {
+      "id": "ee314ffd-4d53-438d-a613-9e3d96985c98",
+      "roommate": "Cameron Fowler",
+      "descripcion": "Articulos de limpieza",
+      "monto": 16350
+    },
+    {
+      "id": "4bdee313-36eb-497c-b340-307b97ad1a84",
+      "roommate": "Lumi Leppo",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    },
+    {
+      "id": "97b75fcf-0796-4a74-8d65-6451c297a591",
+      "roommate": "Cameron Fowler",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    },
+    {
+      "id": "01a78504-8337-4c79-ac41-a7947042b27c",
+      "roommate": "Cameron Fowler",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    }
+  ]
+}

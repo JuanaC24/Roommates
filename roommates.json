@@ -1,0 +1,179 @@
+{
+  "roommates": [
+    {
+      "nombre": "Cameron Fowler",
+      "email": "cameron.fowler@example.com",
+      "id": "fd331e03-6d16-4098-9538-ba94c8bff000",
+      "debe": 46350,
+      "recibe": -38665.2
+    },
+    {
+      "nombre": "Zdorovega Skiba",
+      "email": "zdorovega.skiba@example.com",
+      "id": "8f873d50-a217-4b85-9c6a-a401093c4a8b",
+      "debe": 25000,
+      "recibe": -17315.2
+    },
+    {
+      "nombre": "Océane Lopez",
+      "email": "oceane.lopez@example.com",
+      "id": "70ba9c60-a37b-40e3-a3c2-ca0cfcef06e2",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Alfredo Vázquez",
+      "email": "alfredo.vazquez@example.com",
+      "id": "851c721c-7189-408e-8773-359e84deb4d8",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Daniela Hidalgo",
+      "email": "correo_de_prueba@ejemplo.com",
+      "id": "cfa79179-857b-404f-9142-8c7eb95aa9d9",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Lumi Leppo",
+      "email": "correo_de_prueba@ejemplo.com",
+      "id": "501b1591-fedc-4b64-9665-ddbcdf10eb28",
+      "debe": 15000,
+      "recibe": -7315.2
+    },
+    {
+      "nombre": "Asma Raknes",
+      "email": "correo_de_prueba@ejemplo.com",
+      "id": "671a4059-26d5-4bcd-b7aa-39c47e43c467",
+      "debe": 10500,
+      "recibe": -2815.2
+    },
+    {
+      "nombre": "Hredhaan Kumari",
+      "email": "correo_de_prueba@ejemplo.com",
+      "id": "8cf1328e-7f46-47d5-b76f-f9230a95dd42",
+      "debe": 15027,
+      "recibe": -7342.2
+    },
+    {
+      "nombre": "Linda Mateo",
+      "email": "correo_de_prueba@ejemplo.com",
+      "id": "4f9a1791-22fc-4861-acd0-7060bca8b948",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Gorana Zdravković",
+      "email": "gorana.zdravković@validemail.com",
+      "id": "35bff0de-80d8-4918-af69-8ad1c35b8a16",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Florence Fisher",
+      "email": "florence.fisher@validemail.com",
+      "id": "10479433-61fc-4db3-830f-520aed34bcc1",
+      "debe": 16253,
+      "recibe": -8568.2
+    },
+    {
+      "nombre": "Oskari Suomi",
+      "email": "oskari.suomi@validemail.com",
+      "id": "e6e40726-59ca-4ac5-900f-268f9a3d2ca8",
+      "debe": 6500,
+      "recibe": 1184.8000000000002
+    },
+    {
+      "nombre": "Agron Martinez",
+      "email": "agron.martinez@validemail.com",
+      "id": "f0c209a7-779b-4747-b4d1-fe32bac0167f",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Siddártha Aragão",
+      "email": "siddártha.aragão@validemail.com",
+      "id": "ea5dc8b6-a510-41ad-bf84-02000dbb7b94",
+      "debe": 12000,
+      "recibe": -4315.2
+    },
+    {
+      "nombre": "Nathanaël Duval",
+      "email": "nathanaël.duval@validemail.com",
+      "id": "7d8ff18d-1667-4643-b911-c0b9a0915ecd",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Katalina Janković",
+      "email": "katalina.janković@validemail.com",
+      "id": "6bbde210-731c-497c-ae77-d5f45dc117e2",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Brijesh Kulkarni",
+      "email": "brijesh.kulkarni@validemail.com",
+      "id": "7ff5c525-6c55-45f5-b369-34971d679bdb",
+      "debe": 6890,
+      "recibe": 794.8000000000002
+    },
+    {
+      "nombre": "Eeli Kyllo",
+      "email": "eeli.kyllo@validemail.com",
+      "id": "20995085-49e3-4ac4-9d60-3d0621ea6366",
+      "debe": 38600,
+      "recibe": -30915.2
+    },
+    {
+      "nombre": "Vidyalaxmi Salian",
+      "email": "vidyalaxmi.salian@validemail.com",
+      "id": "941816de-cb1f-4734-a687-60050c158f20",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "کیانا مرادی",
+      "email": "کیانا.مرادی@validemail.com",
+      "id": "2cdc9fb3-f1c8-4213-aa53-70ef727a21d3",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Aayushi Gugale",
+      "email": "aayushi.gugale@validemail.com",
+      "id": "6a06c755-c97f-40c6-ae88-24b6130ce9c1",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Aleksi Savela",
+      "email": "aleksi.savela@example.com",
+      "id": "80b23f16-9064-4e1a-b9f2-e34b7286a6da",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Abraham Escalante",
+      "email": "abraham.escalante@example.com",
+      "id": "3d64e3ae-dcb9-4f9e-a4bf-4f21bf2214db",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Irmgard Martini",
+      "email": "irmgard.martini@example.com",
+      "id": "08d7babf-6cbb-40d1-bbef-0701d830738c",
+      "debe": 0,
+      "recibe": 7684.8
+    },
+    {
+      "nombre": "Ceyhan Keseroğlu",
+      "email": "ceyhan.keseroglu@example.com",
+      "id": "45d274fe-3fbb-46d5-9156-4e418decb3d1",
+      "debe": 0,
+      "recibe": 7684.8
+    }
+  ]
+}
